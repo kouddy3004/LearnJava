@@ -1,6 +1,11 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,java
+
+
+target/
+result/
+spark/dataBank/
+
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -121,6 +126,8 @@ hs_err_pid*
 ### Maven ###
 target/
 result/
+=======
+>>>>>>> master
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
