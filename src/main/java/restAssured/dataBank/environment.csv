@@ -1,0 +1,2 @@
+EnvName,Base Url,Get,Post,Delete,Put,QueryParameter,
+RahulShetty,https://rahulshettyacademy.com  ,,/maps/api/place/add/json,,,

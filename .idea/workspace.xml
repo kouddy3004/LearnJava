@@ -31,13 +31,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Automation_Scripts/IFRS17_8.1/pom.xml" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="scripts.java.reusable" />
     </key>
@@ -47,7 +51,7 @@
       <recent name="D:\koushik\myGit\LearnJava\src\main\java\spark" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataExtrapolation">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DataExtrapolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scripts.java.code.DataExtrapolation" />
       <module name="LearnJava" />
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spark.scripts.sample.LearnSpark" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spark.scripts.sample.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DataExtrapolation" />
         <item itemvalue="Application.TestPartition" />
         <item itemvalue="Application.SparkAndThread" />
         <item itemvalue="Application.SampleThread" />
-        <item itemvalue="Application.LearnSpark" />
       </list>
     </recent_temporary>
   </component>
@@ -143,34 +147,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1599815308089" />
-    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600186560798">
+    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601199727054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1600186560798" />
-    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600186563196">
+    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1601199727054" />
+    <state x="466" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601202021636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1600186563196" />
+    <state x="466" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1601202021636" />
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601199728512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1601199728512" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600681053552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600681053552" />
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1600776792904">
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1601206817163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600776792904" />
-    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1600776792904">
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1601206817163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600776792904" />
-    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1600776792903">
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1601206817162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600776792903" />
-    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1600776792904">
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601206817162" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1601206817163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600776792904" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600185098828">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,21 +195,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600185098828" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1600344230532">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1601110953684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600344230532" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601110953684" />
     <state x="65" y="24" key="new project wizard" timestamp="1600146490513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600146490513" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1600259448042">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1601110777566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600259448042" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600772194196">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601110777566" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601206792238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600772194196" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601206792238" />
   </component>
 </project>
