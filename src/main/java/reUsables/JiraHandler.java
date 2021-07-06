@@ -5,6 +5,7 @@ import HTTPClient.HTTPConnection;
 import HTTPClient.HTTPResponse;
 import HTTPClient.NVPair;
 import org.apache.log4j.Logger;
+import org.apache.xmlbeans.impl.util.Base64;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.Assert;
@@ -42,7 +43,7 @@ public class JiraHandler {
         try {
             URL url = new URL(baseUrl);
             http = new HTTPConnection(url);
-            String headerCreds = new sun.misc.BASE64Encoder().encode((userName + ":" + passWord).getBytes());
+            String headerCreds = new String(Base64.encode((userName + ":" + passWord).getBytes()));
             List<NVPair> headers = new ArrayList<>();
             NVPair nvPair = new NVPair("Authorization", "Basic " + headerCreds);
             headers.add(nvPair);

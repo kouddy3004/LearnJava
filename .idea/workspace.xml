@@ -4,26 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a553469-faa5-4a61-80c1-c2f52167f120" name="Default Changelist" comment="" />
+    <list default="true" id="7f6a818d-8c0c-4966-a024-446da23fa4e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KOUSHIK_Framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataExtrapolate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OFSAA_APP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WbTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reUsables/JiraHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reUsables/JiraHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/testRunner/RunRegression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber/testRunner/RunRegression.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1pKRQ2f1v9GNwOE9n7INg7oC67I" />
+  <component name="ProjectId" id="1uvYbBRNCV9RmgzjdUmrIWTFGl4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,79 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/cucumber" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\edu\learnJava\src\test\java\cucumber" />
-      <recent name="D:\edu\learnJava\src\main\java" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17\dbOperations" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17\queries" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dataBank\IFRS17" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dataBank" />
-      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\testData" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cucumber.testRunner" />
-      <recent name="baseTest" />
-      <recent name="webAutomation.IFRS17.objLib" />
-      <recent name="dbAutomation.IFRS17.dbOperations" />
-      <recent name="reUsables" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=yes -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=yes -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=WbTest.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=ifrs17qa -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00dee -DUsername=ifrs17qa -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N " />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no " />
-      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.RunRegression (1)">
-    <configuration name="RunRegression (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OFSAA_APP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testRunner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testRunner" />
-      <option name="MAIN_CLASS_NAME" value="testRunner.RunRegression" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="RunRegression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OFSAA_APP" />
+      <module name="KOUSHIK_Framework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.testRunner.*" />
@@ -119,24 +58,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RunRegression (1)" />
         <item itemvalue="JUnit.RunRegression" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\kosubram\AppData\Roaming\Subversion</configuration>
-    <supportedVersion>125</supportedVersion>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a553469-faa5-4a61-80c1-c2f52167f120" name="Default Changelist" comment="" />
-      <created>1614929776089</created>
+      <changelist id="7f6a818d-8c0c-4966-a024-446da23fa4e4" name="Default Changelist" comment="" />
+      <created>1625547599601</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614929776089</updated>
+      <updated>1625547599601</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
