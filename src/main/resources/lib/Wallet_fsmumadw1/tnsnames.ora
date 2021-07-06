@@ -1,0 +1,6 @@
+fsmumadw1_high = (description= (retry_count=20)(retry_delay=3)(address=(https_proxy=www-proxy.idc.oracle.com)(https_proxy_port=80)(protocol=tcps)(port=1522)(host=adb.ap-mumbai-1.oraclecloud.com))(connect_data=(service_name=s97mbjjupog8lfy_fsmumadw1_high.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-mumbai-1.oraclecloud.com,OU=Oracle ADB INDIA,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+fsmumadw1_low = (description= (retry_count=20)(retry_delay=3)(address=(https_proxy=www-proxy.idc.oracle.com)(https_proxy_port=80)(protocol=tcps)(port=1522)(host=adb.ap-mumbai-1.oraclecloud.com))(connect_data=(service_name=s97mbjjupog8lfy_fsmumadw1_low.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-mumbai-1.oraclecloud.com,OU=Oracle ADB INDIA,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+fsmumadw1_medium = (description= (retry_count=20)(retry_delay=3)(address=(https_proxy=www-proxy.idc.oracle.com)(https_proxy_port=80)(protocol=tcps)(port=1522)(host=adb.ap-mumbai-1.oraclecloud.com))(connect_data=(service_name=s97mbjjupog8lfy_fsmumadw1_medium.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-mumbai-1.oraclecloud.com,OU=Oracle ADB INDIA,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+

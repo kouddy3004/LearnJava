@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "issuetype": {
+      "name": "Test"
+    },
+    "summary": "Validate whether Jira updation has been happening in newly created Framework",
+    "assignee": {
+      "name": "koushik.subramanian@oracle.com"
+    },
+    "project": {
+      "key": "OFSIIA",
+      "Sprint": "IAA_Mar_2021",
+      "Scrum Team": "Automation"
+    }
+  }
+}
