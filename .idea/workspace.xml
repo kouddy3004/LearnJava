@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6a818d-8c0c-4966-a024-446da23fa4e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KOUSHIK_Framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataExtrapolate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OFSAA_APP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WbTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reUsables/JiraHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reUsables/JiraHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/testRunner/RunRegression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber/testRunner/RunRegression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
