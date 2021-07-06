@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IFRS17_DB_Validation">
+    <parameter name="ProductNameTestNg" value="IFRS17" />
+    <parameter name="TestApplicationName" value="Oracle Insurance Accounting Analyzer"/>
+    <parameter name="VersionID" value="8.1.0.1" />
+    <parameter name="TestType" value="dbAutomation"></parameter>
+    <!--<listeners>
+        <listener class-name="retryAnalyzer.AnnotationTransformer"/>
+    </listeners>-->
+
+     <test name="ExtraPolate  Data Policy">
+        <classes>
+            <class name="baseTest.DbTestingSuite">
+                <parameter name="ModuleNameTestNg" value="DataExtrapolate" />
+                <parameter name="browserTestNG" value="chrome" />
+                <parameter name="TestcaseIDTestNG" value="TC_STG_LIFE_INS_POLICY_TXNS" />
+            </class>
+        </classes>
+    </test>
+
+    <test name="ExtraPolate  Data Cohort">
+        <classes>
+            <class name="baseTest.DbTestingSuite">
+                <parameter name="ModuleNameTestNg" value="DataExtrapolate" />
+                <parameter name="browserTestNG" value="chrome" />
+                <parameter name="TestcaseIDTestNG" value="TC_STG_INS_COHORT_ASSUMED_CFS" />
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

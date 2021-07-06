@@ -7,5 +7,10 @@ pscp -P 22 D:\koushik\myGit\LearnJava\src\main\java\scripts\java\result\STG_INS_
 
 
 # Framework for Rest assured
-Fill the environment details  in \src\main\java\restAssured\dataBank\environment.csv
-And Pass that as a parameter in main
+1)
+	Fill the environment details  in \src\main\java\restAssured\dataBank\environment.csv
+	And Pass that as a parameter in main
+2)
+	Your environment Name should be as same as json file Name(Note : It's a case sensitive)
+	Follow The same
+	

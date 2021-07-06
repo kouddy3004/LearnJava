@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38607dc3-1bad-4493-b068-674ed7d71cb6" name="Default Changelist" comment="" />
+    <list default="true" id="2a553469-faa5-4a61-80c1-c2f52167f120" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +20,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1hJZtg4AuCV0tr6d70oGDZIaWFp" />
+  <component name="ProjectId" id="1pKRQ2f1v9GNwOE9n7INg7oC67I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,185 +31,111 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/cucumber" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\edu\learnJava\src\test\java\cucumber" />
+      <recent name="D:\edu\learnJava\src\main\java" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17\dbOperations" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\IFRS17\queries" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dataBank\IFRS17" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dataBank" />
+      <recent name="D:\Automation_Scripts\OFSAA_APP\src\main\java\dbAutomation\testData" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="scripts.java.reusable" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\koushik\myGit\LearnJava\src\main\java\spark\scripts\scala" />
-      <recent name="D:\koushik\myGit\LearnJava\src\main\java\spark\scripts\sample" />
-      <recent name="D:\koushik\myGit\LearnJava\src\main\java\spark" />
+      <recent name="cucumber.testRunner" />
+      <recent name="baseTest" />
+      <recent name="webAutomation.IFRS17.objLib" />
+      <recent name="dbAutomation.IFRS17.dbOperations" />
+      <recent name="reUsables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DataExtrapolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scripts.java.code.DataExtrapolation" />
-      <module name="LearnJava" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=yes -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=yes -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaobie -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DB.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00axw -DUsername=ofsaebas -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=WbTest.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00adu -DUsername=ifrs17 -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=ifrs17qa -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00dee -DUsername=ifrs17qa -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=AppConfig.xml -DhostName=whf00dej -DUsername=webuser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=no -DInstanceName=N " />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Demo -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Smoke -DsuiteXmlFile=DataExtrapolate.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LOA.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no " />
+      <command value="mvn clean test -Dgroups=Regression -DsuiteXmlFile=LC.xml -DhostName=whf00dee -DUsername=qauser -DPassword=ifrs17mount  -DTrigger_ZAP_Scan=NO -DTrigger_JIRA=nno -DInstanceName=no" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunRegression (1)">
+    <configuration name="RunRegression (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OFSAA_APP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scripts.java.code.*" />
+          <option name="PATTERN" value="testRunner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.RunRegression" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="LearnJava" />
+    <configuration name="RunRegression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OFSAA_APP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="cucumber.testRunner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SampleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreading.SampleThread" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparkAndThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spark.scripts.sample.SparkAndThread" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spark.scripts.sample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestPartition" />
-      <module name="LearnJava" />
+      <option name="PACKAGE_NAME" value="cucumber.testRunner" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.testRunner.RunRegression" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DataExtrapolation" />
-        <item itemvalue="Application.TestPartition" />
-        <item itemvalue="Application.SparkAndThread" />
-        <item itemvalue="Application.SampleThread" />
+        <item itemvalue="JUnit.RunRegression (1)" />
+        <item itemvalue="JUnit.RunRegression" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\kosubram\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38607dc3-1bad-4493-b068-674ed7d71cb6" name="Default Changelist" comment="" />
-      <created>1599731371602</created>
+      <changelist id="2a553469-faa5-4a61-80c1-c2f52167f120" name="Default Changelist" comment="" />
+      <created>1614929776089</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599731371602</updated>
+      <updated>1614929776089</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="568" y="227" key="#Notifications" timestamp="1599815726297">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1599815726297" />
-    <state x="500" y="278" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1600144963466">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.728@0.0.1366.728" timestamp="1600144963466" />
-    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1599815308089">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1599815308089" />
-    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601199727054">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="407" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1601199727054" />
-    <state x="466" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601202021636">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="466" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1601202021636" />
-    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601199728512">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1601199728512" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600681053552">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600681053552" />
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1601206817163">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
-    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1601206817163">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
-    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1601206817162">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601206817162" />
-    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1601206817163">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601206817163" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600185098828">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600185098828" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600185098828">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600185098828" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600185098828">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600185098828" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600185098828">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600185098828" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1601110953684">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601110953684" />
-    <state x="65" y="24" key="new project wizard" timestamp="1600146490513">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600146490513" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1601110777566">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601110777566" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601206792238">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601206792238" />
   </component>
 </project>
