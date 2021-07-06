@@ -1,6 +1,27 @@
 # Created by https://www.toptal.com/developers/gitignore/api/maven,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=maven,intellij
 
+
+# Compiled class file
+*.class
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
 ### Intellij ###
 # User-specific stuff
 .idea/**/workspace.xml
@@ -8,6 +29,9 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+
+ExtentReports/*
+bin/*
 
 # Generated files
 .idea/**/contentModel.xml
